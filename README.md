@@ -1,1 +1,1 @@
-# scikit-learn-user-guide-explanation-in-Turkish
+Explaining the scikit-learn user guide in Turkish with illustrations, mathematical explanations, and code examples.
